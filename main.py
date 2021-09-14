@@ -39,7 +39,6 @@ def habr_scrap(url=URL, hubs=HUBS):
 
       for hub in hubs:
          if hub in full_preview:
-            print(hub)
             print(post_date, '-', post_title.text, '-', post_link)
 
 
