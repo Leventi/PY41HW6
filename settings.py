@@ -1,3 +1,4 @@
 
-HUBS = ['Сетевые технологии*', 'Сетевое оборудование', 'web', 'Python*', 'Блог']
-URL = 'https://habr.com/ru/all/'
+HUBS = ['дизайн', 'фото', 'web', 'python']
+SITE = 'https://habr.com'
+URL = 'https://habr.com/ru/all'
